@@ -1,7 +1,7 @@
 <h1 style='color:red'> SSH </h1>
 <h3 style='color:blue'>  generating public and private key </h3> &nbsp;
 
-<span style="color:yellow"> ssh-keygen -o -t rsa -C ed25519 -C "@hussain" </span> <br>
+<span style="color:yellow"> ssh-keygen -o -t rsa -C "@hussain" </span> <br>
 
 
  then simply press enter enter and enter for the question asked and it will create your public and private key
