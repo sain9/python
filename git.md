@@ -22,9 +22,12 @@ paste your public key here and give a name to the key like 'local key' and then 
 
 <span style="color:yellow"> git remote -v </span>
 
+<!--
 <span style="color:red">This text is red.</span> <br>
 <span style="color:green">This text is green.</span> <br>
 <span style="color:blue">This text is blue.</span>
+
+-->
 
 
 
